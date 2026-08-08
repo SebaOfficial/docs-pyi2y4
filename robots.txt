@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-u5eglx.salamkita.sbs/sitemap.xml
